@@ -102,7 +102,7 @@ eversed 속성 : 순서 반대로(역순)
         <li>JavaScript</li>
         <li>Java</li>
         <li>DB(Oracle)</li>
-    </ol>
+</ol>
 
 ## HTML 3번 표관련태그
 
@@ -151,4 +151,3 @@ eversed 속성 : 순서 반대로(역순)
 <td rowspan="3">서울시 중구</td>
 ```
 
-ddddd
